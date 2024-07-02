@@ -1,0 +1,1 @@
+Node.js solves a list of production challenges for top organizations. Some are platform-related, while others are focused on resource utilization. Across the board, Netflix, Paypal, Linkedin, all have admitted to loading-time savings of up to 60% as reported by Hackernoon.
